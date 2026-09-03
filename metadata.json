@@ -1,0 +1,6 @@
+{
+  "name": "Blackrose Luxe Restaurant",
+  "description": "Modern, premium restaurant website for Blackrose Luxe Restaurant on Commercial Avenue, Bamenda, Cameroon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
